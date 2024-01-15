@@ -1,6 +1,6 @@
 // Данна строка 'DDADSADASDAAADS' вывести все уникальные символы в строке "DAS"
 
-const initialStr: string = 'DDADSADASDAAADS';
+const initialStr: string = 'DDASDSADASDAAADS';
 const pattern: string = 'DAS';
 
 const matches: string[] = [];
